@@ -34,7 +34,7 @@ function draw() {
 
   textSize(30);
   fill("white")
-  text("Stock remaining : " + foodS, 100  , 30);
+  text("Stock remaining : " + foodS, 100  , 150);
 
   drawSprites();
   //add styles here
